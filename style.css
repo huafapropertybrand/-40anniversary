@@ -185,3 +185,7 @@ footer {
     .story-header .logo { max-width: 150px; }
     .story-image { width: 150px; height: 200px; }
 }
+
+.img-pos-top {
+    object-position: center top; /* 优先显示图片顶部，防止头部被裁 */
+}
